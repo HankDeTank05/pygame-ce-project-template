@@ -29,10 +29,10 @@ while running:
     ######################
     ### PART 2: UPDATE ###
     ######################
-    
-    # TODO: drawing code goes here
 
     screen.fill(COLOR_BLACK) # clear the screen
+    
+    # TODO: drawing code goes here
 
     pygame.display.flip()
 

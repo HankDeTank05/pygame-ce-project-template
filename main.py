@@ -26,9 +26,9 @@ while running:
 
     # TODO: update code goes here
 
-    ######################
-    ### PART 2: UPDATE ###
-    ######################
+    ####################
+    ### PART 2: DRAW ###
+    ####################
 
     screen.fill(COLOR_BLACK) # clear the screen
     

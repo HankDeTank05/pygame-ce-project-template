@@ -20,6 +20,10 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
+    key_states = pygame.key.get_pressed()
+    key_presses = pygame.key.get_just_pressed()
+    key_releases = pygame.key.get_just_released()
+
     # TODO: update code goes here
 
     ######################
